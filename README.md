@@ -1,4 +1,4 @@
-Hi, I'm Raj. I do cool stuff with computers. Contact me here - i.am.rajwinder19@gmail.com
+Hi, I'm Raj. I do cool stuff with computers. Contact me here - i.am.rajwinder.19@gmail.com
 <!---
 - 👋 Hi, I’m @Rajwinder-Singh-19
 - 👀 I’m interested in ...
