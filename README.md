@@ -42,16 +42,6 @@ I build software for modeling, simulating, and controlling physical systems — 
 
 ## ⭐ Featured Projects
 
-### 🧠 [ferode — A Pure Rust ODE Solver Library](https://github.com/Rajwinder-Singh-19/ferode)
-- Pure Rust implementation of a modular ODE solver framework
-- Supports multiple explicit integration schemes (up to 5th order accuracy)
-- Adaptive step-size control for stability and performance
-- Designed for scientific computing workloads
-
-> Focus: numerical methods, stability, reusable solver architecture
-
----
-
 ### 🚗 [Aerodynamic Design of Formula 1 Vehicle (Bachelor's Capstone Project)](https://github.com/Rajwinder-Singh-19/Aerodynamic-Design-Of-A-Formula-1-Racing-Vehicle)
 - Led aerodynamic simulation workflow for an F1 vehicle design project
 - Performed CFD analysis using OpenFOAM
@@ -64,13 +54,23 @@ I build software for modeling, simulating, and controlling physical systems — 
 
 ---
 
+### 🧠 [ferode — A Pure Rust ODE Solver Library](https://github.com/Rajwinder-Singh-19/ferode)
+- Pure Rust implementation of a modular ODE solver framework
+- Supports multiple explicit integration schemes (up to 5th order accuracy)
+- Adaptive step-size control for stability and performance
+- Designed for scientific computing workloads
+
+> Focus: numerical methods, stability, reusable solver architecture
+
+---
+
 ### ⚙️ [Oden — Modern C++ Template Library For N-Dimensional ODE Systems](https://github.com/Rajwinder-Singh-19/oden) (In Progress)
 - Header-only C++23 library for coupled ODE systems
 - Template-based architecture for extensible solver design
 - Designed for performance-critical simulation workflows
 - Euler solver validated; RK integration planned
 
-> Focus: C++ systems design, Template Metaprogramming, numerical computing framework, extensibility
+> Focus: C++ systems design, template metaprogramming, numerical computing framework, extensibility
 
 ---
 
