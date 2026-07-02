@@ -18,7 +18,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">Rajwinder Singh</h1>
+<h1 data-importer="text" align="center">Rajwinder</h1>
 
 ###
 
