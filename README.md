@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"  />
+  <img data-importer="image" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
 ###
@@ -24,7 +24,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm from Sydney, Australia <br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p data-importer="text" align="left">I'm an Aerospace Masters student from Sydney, Australia and I love develoing software and libraries for scientific computing. <br><br>- 🔭 I’m currently working on a coupled ODE system solver<br>- 📚 I'm currently learning CFD software design<br>- ⚡ In my free time I play volleyball semi-professionally</p>
 
 ###
 
@@ -33,10 +33,11 @@
 ###
 
 <div data-importer="techs" align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" height="50" alt="cpp logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="12" />
+  <img width="50" height="50" alt="rust-lang-logo-white" src="https://github.com/user-attachments/assets/1869a2ca-9aa7-4f1d-b668-cfbf2f04407e" />
 </div>
 
 ###
