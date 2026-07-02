@@ -26,7 +26,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm an Aerospace Masters student from Sydney, Australia and I love develoing software and libraries for scientific computing. <br><br>- 🔭 I’m currently working on a coupled ODE system solver<br>- 📚 I'm currently learning CFD software design<br>- ⚡ In my free time I play volleyball semi-professionally</p>
+<p data-importer="text" align="left">I'm an Aerospace Masters student from Sydney, Australia and I love develoing software and libraries for scientific computing. <br><br>- 🔭 I’m currently working on Oden, A coupled ODE system framework in C++ 23<br>- 📚 I'm currently learning CFD software design<br>- ⚡ In my free time I play volleyball semi-professionally</p>
 
 ###
 
