@@ -54,7 +54,7 @@ I build software for modeling, simulating, and controlling physical systems — 
 
 ---
 
-### 🧠 [ferode — A Pure Rust ODE Solver Library](https://github.com/Rajwinder-Singh-19/ferode)
+### 🧠 [ferode — A Pure Rust ODE Framework](https://github.com/Rajwinder-Singh-19/ferode)
 - Pure Rust implementation of a modular ODE solver framework
 - Supports multiple explicit integration schemes (up to 5th order accuracy)
 - Adaptive step-size control for stability and performance
