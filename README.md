@@ -84,7 +84,7 @@ I build software for modeling, simulating, and controlling physical systems — 
 
 ## 🧰 Technical Skills
 
-**Languages:** C, C++, C++23, Rust, Python, MATLAB  
+**Languages:** C, C++23, Rust, Python, MATLAB  
 **Simulation:** OpenFOAM, ANSYS, CFD workflows  
 **Numerical Methods:** ODE solvers, linear algebra, OpenMDAO ,optimization  
 **Engineering Tools:** SolidWorks, Fusion 360, Git, Linux  
