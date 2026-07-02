@@ -2,8 +2,6 @@
 
 ### A passionate C++, Rust and Python developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rajwinder-Singh-19&label=Profile views&color=0e75b6&style=flat" alt="Rajwinder-Singh-19" /> </p>
-
 - 🔭 I'm currently working on **Oden: A Modern C++ Template Library For N-Dimensional ODE Systems**
 
 - 🌱 I'm currently learning **Numerical Software and Library Design**
