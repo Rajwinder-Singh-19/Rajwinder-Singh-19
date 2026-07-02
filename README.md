@@ -18,7 +18,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">Wassup 👋, I'm Rajwinder, currently living on the other side of your computer screen</h1>
+<h1 data-importer="text" align="center">Rajwinder Singh</h1>
 
 ###
 
