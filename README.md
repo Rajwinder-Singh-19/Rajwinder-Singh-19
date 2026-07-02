@@ -26,9 +26,80 @@
 
 ###
 
-<p data-importer="text" align="left">I'm an Aerospace Masters student from Sydney, Australia and I love develoing software and libraries for scientific computing. <br><br>- 🔭 I’m currently working on Oden, A coupled ODE system framework in C++ 23<br>- 📚 I'm currently learning CFD software design<br>- ⚡ In my free time I play volleyball semi-professionally</p>
+<p data-importer="text" align="left">Engineering Software Developer focused on numerical simulation, robotics systems, and high-performance C++/Rust computing.
 
-###
+I build software for modeling, simulating, and controlling physical systems — spanning robotics, aerospace dynamics, and computational physics.</p>
+
+## 🔬 Core Focus Areas
+
+- Numerical simulation (ODE/PDE systems, dynamics, control)
+- Robotics-adjacent systems (kinematics, motion, control)
+- High-performance C++23 and Rust engineering
+- CFD and aerospace computational modeling
+- Embedded UAV systems and data acquisition
+
+## ⭐ Featured Projects
+
+### 🧠 ferode — Rust ODE Solver Library
+- Pure Rust implementation of a modular ODE solver framework
+- Supports multiple explicit integration schemes (up to 5th order accuracy)
+- Adaptive step-size control for stability and performance
+- Designed for scientific computing workloads
+
+> Focus: numerical methods, stability, reusable solver architecture
+
+---
+
+### 🚗 Aerodynamic Design of Formula 1 Vehicle (Capstone Project)
+- Led aerodynamic simulation workflow for an F1 vehicle design project
+- Performed CFD analysis using OpenFOAM
+- Built a C++/Qt tool for RANS parameter tuning and mesh refinement control
+- Developed surrogate-model-based aerodynamic optimization (PyTorch)
+- Fabricated and tested 1:10 scale wind tunnel prototype
+
+> Focus: CFD, optimization, simulation tooling, engineering systems design  
+> 🏆 Best Capstone Project Award (Aerospace Discipline, 2025)
+
+---
+
+### ⚙️ Oden — Modern C++23 ODE Solver Framework (In Progress)
+- Header-only C++23 library for coupled ODE systems
+- Template-based architecture for extensible solver design
+- Designed for performance-critical simulation workflows
+- Euler solver validated; RK integration planned
+
+> Focus: C++ systems design, numerical computing framework, extensibility
+
+---
+
+## 🧪 Experience
+
+### UAV Propulsion R&D — Testing & Instrumentation Engineer (Intern)
+- Developed Blade Element Method model for UAV propeller analysis (MATLAB)
+- Built Python pipeline for large-scale propulsion test data processing (50% faster analysis)
+- Implemented embedded C/C++ firmware for propulsion data acquisition systems
+- Developed semi-analytical thermal models for in-flight heat transfer behavior
+
+---
+
+## 🧰 Technical Skills
+
+**Languages:** C, C++, C++23, Rust, Python, MATLAB  
+**Simulation:** OpenFOAM, ANSYS, CFD workflows  
+**Numerical Methods:** ODE solvers, linear algebra, optimization  
+**Engineering Tools:** SolidWorks, Fusion 360, Git, Linux  
+**ML Tools:** PyTorch (surrogate modeling, optimization)
+
+---
+
+## 🧭 Interests
+
+- Robotics systems and autonomous systems
+- Physics-based simulation engines
+- Music production and audio programming (MaxMSP, PureData)
+- Computational modeling of real-world systems
+
+---
 
 <h3 data-importer="text" align="left">🛠 Language and tools</h3>
 
