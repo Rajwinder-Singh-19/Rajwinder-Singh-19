@@ -34,12 +34,6 @@ I build software for modeling, simulating, and controlling physical systems — 
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Rajwinder-Singh-19&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
 <h3 data-importer="text" align="left">🛠 Language and tools</h3>
 
 ###
@@ -56,6 +50,8 @@ I build software for modeling, simulating, and controlling physical systems — 
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cmake/cmake-original.svg" height="50" alt="cmake logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
 </div>
 
 ## 🔬 Core Focus Areas
@@ -65,6 +61,14 @@ I build software for modeling, simulating, and controlling physical systems — 
 - High-performance C++23 and Rust engineering
 - CFD and aerospace computational modeling
 - Embedded UAV systems and data acquisition
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=Rajwinder-Singh-19&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 ## ⭐ Featured Projects
 
