@@ -6,15 +6,15 @@
 
 ###
 
-<h1 data-importer="text" align="center">Rajwinder</h1>
+<h1 data-importer="text" align="center"> Rajwinder </h1>
+
+###
 
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/manny19" target="https://www.linkedin.com/in/manny19">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 </div>
-
-###
 
 ###
 
@@ -31,6 +31,32 @@
 <p data-importer="text" align="left">Engineering Software Developer focused on numerical simulation, robotics systems, and high-performance C++/Rust computing.
 
 I build software for modeling, simulating, and controlling physical systems — spanning robotics, aerospace dynamics, and computational physics.</p>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=Rajwinder-Singh-19&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" height="50" alt="cpp logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="12" />
+  <img width="50" height="50" alt="rust-lang-logo-white" src="https://github.com/user-attachments/assets/1869a2ca-9aa7-4f1d-b668-cfbf2f04407e" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/matlab/matlab-original.svg" height="50" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cmake/cmake-original.svg" height="50" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch logo"  />
+</div>
 
 ## 🔬 Core Focus Areas
 
@@ -88,9 +114,9 @@ I build software for modeling, simulating, and controlling physical systems — 
 
 **Languages:** C, C++23, Rust, Python, MATLAB  
 **Simulation:** OpenFOAM, ANSYS, CFD workflows  
-**Numerical Methods:** ODE solvers, linear algebra, OpenMDAO ,optimization  
+**Numerical Methods:** ODE solvers, linear algebra, optimization  
 **Engineering Tools:** SolidWorks, Fusion 360, Git, Linux  
-**ML Tools:** PyTorch (surrogate modeling, optimization)
+**ML Tools:** PyTorch and OpenMDAO (surrogate modeling, optimization)
 
 ---
 
@@ -100,27 +126,3 @@ I build software for modeling, simulating, and controlling physical systems — 
 - Physics-based simulation engines
 - Music production and audio programming (MaxMSP, PureData)
 - Computational modeling of real-world systems
-
----
-
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" height="50" alt="cpp logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="12" />
-  <img width="50" height="50" alt="rust-lang-logo-white" src="https://github.com/user-attachments/assets/1869a2ca-9aa7-4f1d-b668-cfbf2f04407e" />
-</div>
-
-###
-
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Rajwinder-Singh-19&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
