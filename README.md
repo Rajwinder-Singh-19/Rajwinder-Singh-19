@@ -15,7 +15,6 @@
 ###
 
 <p data-importer="text" align="left">Engineering Software Developer focused on numerical simulation, robotics systems, and high-performance C++/Rust computing.
-
 I build software for modeling, simulating, and controlling physical systems — spanning robotics, aerospace dynamics, and computational physics.</p>
 
 ###
