@@ -40,7 +40,7 @@ I build software for modeling, simulating, and controlling physical systems — 
 
 ## ⭐ Featured Projects
 
-### 🧠 ferode — Rust ODE Solver Library
+### 🧠 ferode — Pure Rust ODE Solver Library
 - Pure Rust implementation of a modular ODE solver framework
 - Supports multiple explicit integration schemes (up to 5th order accuracy)
 - Adaptive step-size control for stability and performance
@@ -50,7 +50,7 @@ I build software for modeling, simulating, and controlling physical systems — 
 
 ---
 
-### 🚗 Aerodynamic Design of Formula 1 Vehicle (Capstone Project)
+### 🚗 Aerodynamic Design of Formula 1 Vehicle (Bachelor's Capstone Project)
 - Led aerodynamic simulation workflow for an F1 vehicle design project
 - Performed CFD analysis using OpenFOAM
 - Built a C++/Qt tool for RANS parameter tuning and mesh refinement control
@@ -62,7 +62,7 @@ I build software for modeling, simulating, and controlling physical systems — 
 
 ---
 
-### ⚙️ Oden — Modern C++23 ODE Solver Framework (In Progress)
+### ⚙️ Oden — Modern C++ Template Library For N-Dimensional ODE Systems (In Progress)
 - Header-only C++23 library for coupled ODE systems
 - Template-based architecture for extensible solver design
 - Designed for performance-critical simulation workflows
@@ -86,7 +86,7 @@ I build software for modeling, simulating, and controlling physical systems — 
 
 **Languages:** C, C++, C++23, Rust, Python, MATLAB  
 **Simulation:** OpenFOAM, ANSYS, CFD workflows  
-**Numerical Methods:** ODE solvers, linear algebra, optimization  
+**Numerical Methods:** ODE solvers, linear algebra, OpenMDAO ,optimization  
 **Engineering Tools:** SolidWorks, Fusion 360, Git, Linux  
 **ML Tools:** PyTorch (surrogate modeling, optimization)
 
