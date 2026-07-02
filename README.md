@@ -1,22 +1,24 @@
-# Hi 👋, I'm Rajwinder Singh
+# Hi 👋, I'm Rajwinder
 
 ### A passionate C++, Rust and Python developer
+
+![](https://komarev.com/ghpvc/?username=Rajwinder-Singh-19&color=orange&style=for-the-badge)
 
 - 🔭 I'm currently working on **Oden: A Modern C++ Template Library For N-Dimensional ODE Systems**
 
 - 🌱 I'm currently learning **Numerical Software and Library Design**
 
-- 👯 I'm looking to collaborate on **https://github.com/Rajwinder-Singh-19/oden**
+- 👯 I'm looking to collaborate on **[Oden](https://github.com/Rajwinder-Singh-19/oden)**
 
-- 🤝 I'm looking for help with **Efficient algorithm design for Computational Fluid Dynamics**
+- 🤝 I'm looking for help with **Efficient algorithm design for Scientific Computing**
 
-- 💬 Ask me about **Modern C++ Practices and Template Metaprogramming**
+- 💬 Ask me about **Modern C++ Practices, Template Metaprogramming and Scientific Computing**
 
 - 📫 How to reach me **i.am.rajwinder.19@gmail.com**
 
 - ⚡ Fun fact **What you resist persists, what you chase escapes...**
 
-- 📄 Know about my experiences **[https://github.com/Rajwinder-Singh-19/Resume/blob/main/resume.pdf](https://github.com/Rajwinder-Singh-19/Resume/blob/main/resume.pdf)**
+- 📄 Know about my experiences **[My Resume](https://github.com/Rajwinder-Singh-19/Resume/blob/main/resume.pdf)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
