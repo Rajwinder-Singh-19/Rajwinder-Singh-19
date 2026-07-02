@@ -68,7 +68,7 @@ I build software for modeling, simulating, and controlling physical systems — 
 - Designed for performance-critical simulation workflows
 - Euler solver validated; RK integration planned
 
-> Focus: C++ systems design, numerical computing framework, extensibility
+> Focus: C++ systems design, Template Metaprogramming, numerical computing framework, extensibility
 
 ---
 
