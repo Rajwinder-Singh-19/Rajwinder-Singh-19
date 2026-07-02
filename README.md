@@ -1,8 +1,12 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" src="https://private-user-images.githubusercontent.com/190299323/392889987-a0298fb4-2aa6-44dc-b190-6364938549d0.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODMwMDI0MDgsIm5iZiI6MTc4MzAwMjEwOCwicGF0aCI6Ii8xOTAyOTkzMjMvMzkyODg5OTg3LWEwMjk4ZmI0LTJhYTYtNDRkYy1iMTkwLTYzNjQ5Mzg1NDlkMC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcwMlQxNDIxNDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mYzUzYWZlMmVhNmM3OTkyMzk3NDc5YzEyMTljOGJkZWFhZDUzNWM2YTY5ODhhZDIyNzI3YmZiY2UwZWUwYjA1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZnaWYifQ.2ojR_hRwWGbxrPO-YQY2I7zMPZgo8ShbxxDU4xpaX7A"  />
+<div data-importer="image" align="center"> 
+  <img data-importer="image" src="https://private-user-images.githubusercontent.com/190299323/392889987-a0298fb4-2aa6-44dc-b190-6364938549d0.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODMwMDI0MDgsIm5iZiI6MTc4MzAwMjEwOCwicGF0aCI6Ii8xOTAyOTkzMjMvMzkyODg5OTg3LWEwMjk4ZmI0LTJhYTYtNDRkYy1iMTkwLTYzNjQ5Mzg1NDlkMC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcwMlQxNDIxNDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mYzUzYWZlMmVhNmM3OTkyMzk3NDc5YzEyMTljOGJkZWFhZDUzNWM2YTY5ODhhZDIyNzI3YmZiY2UwZWUwYjA1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZnaWYifQ.2ojR_hRwWGbxrPO-YQY2I7zMPZgo8ShbxxDU4xpaX7A"/>
+  
+  <figcaption> <b> Incompressible Flow Field Around A Formula 1 Racing Vehicle.<br> Simulated Using OpenFOAM (SIMPLE solver + k-omega Turbulence Model) </b></figcaption>
 </div>
 
 ###
+
+<h1 data-importer="text" align="center">Rajwinder</h1>
 
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/manny19" target="https://www.linkedin.com/in/manny19">
@@ -12,13 +16,11 @@
 
 ###
 
+###
+
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Rajwinder-Singh-19&"  />
 </div>
-
-###
-
-<h1 data-importer="text" align="center">Rajwinder</h1>
 
 ###
 
