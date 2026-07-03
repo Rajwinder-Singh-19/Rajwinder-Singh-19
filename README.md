@@ -49,10 +49,6 @@ I build software for modeling, simulating, and controlling physical systems — 
 
 ###
 
-![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Rajwinder-Singh-19&theme=react-dark)
-
-###
-
 ## ⭐ Featured Projects
 
 ### 🏎️ [Aerodynamic Design of Formula 1 Vehicle (Bachelor's Capstone Project)](https://github.com/Rajwinder-Singh-19/Aerodynamic-Design-Of-A-Formula-1-Racing-Vehicle)
@@ -116,8 +112,8 @@ I build software for modeling, simulating, and controlling physical systems — 
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Rajwinder-Singh-19&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rajwinder-Singh-19&theme=react&card_width=1000" alt="GitHub Streak" /></a>
 
 ###
+
+![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Rajwinder-Singh-19&theme=react)
