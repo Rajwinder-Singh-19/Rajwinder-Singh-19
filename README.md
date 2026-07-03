@@ -51,7 +51,7 @@ I build software for modeling, simulating, and controlling physical systems — 
 
 ## ⭐ Featured Projects
 
-### 🏎️ [Aerodynamic Design of Formula 1 Vehicle (Bachelor's Capstone Project)](https://github.com/Rajwinder-Singh-19/Aerodynamic-Design-Of-A-Formula-1-Racing-Vehicle)
+### [Aerodynamic Design of Formula 1 Vehicle (Bachelor's Capstone Project)](https://github.com/Rajwinder-Singh-19/Aerodynamic-Design-Of-A-Formula-1-Racing-Vehicle)
 - Led aerodynamic simulation workflow for an F1 vehicle design project
 - Performed CFD analysis using OpenFOAM
 - Built a C++/Qt tool for RANS parameter tuning and mesh refinement control
@@ -63,7 +63,7 @@ I build software for modeling, simulating, and controlling physical systems — 
 
 ---
 
-### 🧠 [ferode — A Pure Rust ODE Framework](https://github.com/Rajwinder-Singh-19/ferode)
+### [ferode — A Pure Rust ODE Framework](https://github.com/Rajwinder-Singh-19/ferode)
 - Pure Rust implementation of a modular ODE solver framework
 - Supports multiple explicit integration schemes (up to 5th order accuracy)
 - Adaptive step-size control for stability and performance
@@ -73,7 +73,7 @@ I build software for modeling, simulating, and controlling physical systems — 
 
 ---
 
-### ⚙️ [oden — Modern C++ Template Library For N-Dimensional ODE Systems](https://github.com/Rajwinder-Singh-19/oden) (In Progress)
+### [oden — Modern C++ Template Library For N-Dimensional ODE Systems](https://github.com/Rajwinder-Singh-19/oden) (In Progress)
 - Header-only C++23 library for coupled ODE systems
 - Template-based architecture for extensible solver design
 - Designed for performance-critical simulation workflows
@@ -83,7 +83,7 @@ I build software for modeling, simulating, and controlling physical systems — 
 
 ---
 
-## 🧪 Experience
+## Professional Experience
 
 ### UAV Propulsion R&D — Testing & Instrumentation Engineer (Intern)
 - Developed Blade Element Method model for UAV propeller analysis (MATLAB)
@@ -93,7 +93,7 @@ I build software for modeling, simulating, and controlling physical systems — 
 
 ---
 
-## 🧰 Technical Skills
+## Technical Skills
 
 **Languages:** C, C++23, Rust, Python, MATLAB  
 **Simulation:** OpenFOAM, ANSYS, CFD workflows  
@@ -103,7 +103,7 @@ I build software for modeling, simulating, and controlling physical systems — 
 
 ---
 
-## 🧭 Interests
+## Interests
 
 - Robotics systems and autonomous systems
 - Physics-based simulation engines
