@@ -10,7 +10,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+<h3 data-importer="text" align="left">About Me</h3>
 
 ###
 
@@ -19,7 +19,7 @@ I build software for modeling, simulating, and controlling physical systems — 
 
 ###
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+<h3 data-importer="text" align="left">Language and tools</h3>
 
 ###
 
@@ -39,7 +39,7 @@ I build software for modeling, simulating, and controlling physical systems — 
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
 </div>
 
-## 🔬 Core Focus Areas
+## Core Focus Areas
 
 - Numerical simulation (ODE/PDE systems, dynamics, control)
 - Robotics-adjacent systems (kinematics, motion, control)
