@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center"> Rajwinder Singh </h1>
+<h1 data-importer="text" align="center"> Rajwinder </h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=10&center=true&multiline=true&repeat=false&width=1000&height=85&lines=Aerospace+Engineering+%40+USYD;Designing+Efficient+Computational+Frameworks;C%2FC%2B%2B+Rust+Python" alt="Typing SVG" /></a>
 
