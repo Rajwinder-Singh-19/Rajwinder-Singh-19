@@ -1,11 +1,11 @@
 <h1 data-importer="text" align="center"> Rajwinder Singh </h1>
 
-###
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=10&center=true&multiline=true&repeat=false&width=1000&height=85&lines=Aerospace+Engineering+%40+USYD;Designing+Efficient+Computational+Frameworks;C%2FC%2B%2B+Rust+Python" alt="Typing SVG" /></a>
 
 <div data-importer="image" align="center"> 
   <img data-importer="image" src="https://github.com/user-attachments/assets/eff26788-85ad-4daf-9849-7023e2b1c4d1"/>
   
-  <figcaption> <b> Incompressible Flow Field Around A Formula 1 Racing Vehicle.<br> Simulated Using OpenFOAM (SIMPLE solver + k-omega SST Turbulence Model) </b></figcaption>
+  <figcaption> <b> Incompressible Flow Field Around A Formula 1 Racing Vehicle.<br> Simulated Using OpenFOAM for my capstone project (SIMPLE solver + k-omega SST Turbulence Model) </b></figcaption>
 </div>
 
 ###
@@ -49,15 +49,13 @@ I build software for modeling, simulating, and controlling physical systems — 
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Rajwinder-Singh-19&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Rajwinder-Singh-19&theme=react-dark)
 
 ###
 
 ## ⭐ Featured Projects
 
-### 🚗 [Aerodynamic Design of Formula 1 Vehicle (Bachelor's Capstone Project)](https://github.com/Rajwinder-Singh-19/Aerodynamic-Design-Of-A-Formula-1-Racing-Vehicle)
+### 🏎️ [Aerodynamic Design of Formula 1 Vehicle (Bachelor's Capstone Project)](https://github.com/Rajwinder-Singh-19/Aerodynamic-Design-Of-A-Formula-1-Racing-Vehicle)
 - Led aerodynamic simulation workflow for an F1 vehicle design project
 - Performed CFD analysis using OpenFOAM
 - Built a C++/Qt tool for RANS parameter tuning and mesh refinement control
@@ -115,3 +113,11 @@ I build software for modeling, simulating, and controlling physical systems — 
 - Physics-based simulation engines
 - Music production and audio programming (MaxMSP, PureData)
 - Computational modeling of real-world systems
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=Rajwinder-Singh-19&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
