@@ -76,8 +76,8 @@ I build software for modeling, simulating, and controlling physical systems — 
 ### [oden — Modern C++ Template Library For N-Dimensional ODE Systems](https://github.com/Rajwinder-Singh-19/oden) (In Progress)
 - Header-only C++23 library for coupled ODE systems
 - Template-based architecture for extensible solver design
-- Designed for performance-critical simulation workflows
 - Euler solver validated; RK integration planned
+- Successfully modelled contact mechanics equations, frequently encountered in robotics
 
 > Focus: C++ systems design, template metaprogramming, numerical computing framework, extensibility
 
