@@ -71,6 +71,8 @@ I build software for modeling, simulating, and controlling physical systems — 
 - Thread-safe architecture with separate GUI and real-time audio processing threads
 - Real-time safe audio callback with runtime coefficient updates
 
+https://github.com/user-attachments/assets/48d36102-6627-4a8b-99a1-67cc4aa5f6c4
+
 > Focus: Real-Time Systems, Digital Signal Processing (DSP), Modern C++, Numerical Algorithms, Software Architecture
 
 ---
