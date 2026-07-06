@@ -64,7 +64,7 @@ I build software for modeling, simulating, and controlling physical systems — 
 
 ---
 
-### [Fast BiQuad Filter!](https://github.com/Rajwinder-Singh-19/Fast-BiQuad-Filter)
+### [Fast BiQuad Filter! VST3](https://github.com/Rajwinder-Singh-19/Fast-BiQuad-Filter)
 
 - Real-time VST3 audio plugin built with Modern C++ and iPlug2
 - Sample-by-sample biquad DSP engine supporting low-pass, high-pass, and band-pass filters
@@ -75,7 +75,7 @@ I build software for modeling, simulating, and controlling physical systems — 
 
 ---
 
-### [ferode — A Pure Rust ODE Framework](https://github.com/Rajwinder-Singh-19/ferode)
+### [ferode: A Pure Rust ODE Framework](https://github.com/Rajwinder-Singh-19/ferode)
 - Pure Rust implementation of a modular ODE solver framework
 - Supports multiple explicit integration schemes (up to 5th order accuracy)
 - Adaptive step-size control for stability and performance
@@ -85,7 +85,7 @@ I build software for modeling, simulating, and controlling physical systems — 
 
 ---
 
-### [oden — Modern C++ Template Library For N-Dimensional ODE Systems](https://github.com/Rajwinder-Singh-19/oden) (In Progress)
+### [oden: Modern C++ Template Library For N-Dimensional ODE Systems](https://github.com/Rajwinder-Singh-19/oden) (In Progress)
 - Header-only C++23 library for coupled ODE systems
 - Template-based architecture for extensible solver design
 - Euler solver validated; RK integration planned
