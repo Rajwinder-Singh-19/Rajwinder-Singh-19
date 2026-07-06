@@ -15,7 +15,7 @@
 ###
 
 <p data-importer="text" align="left">Engineering Software Developer focused on numerical simulation, robotics systems, and high-performance C++/Rust computing.
-I build software for modeling, simulating, and controlling physical systems — spanning robotics, aerospace dynamics, and computational physics.</p>
+I build software for modeling, simulating, and controlling physical systems — spanning robotics, aerospace dynamics, computational physics and digital signal processing.</p>
 
 ###
 
@@ -43,6 +43,7 @@ I build software for modeling, simulating, and controlling physical systems — 
 
 - Numerical simulation (ODE/PDE systems, dynamics, control)
 - Robotics-adjacent systems (kinematics, motion, control)
+- Digital Signal Processing
 - High-performance C++23 and Rust engineering
 - CFD and aerospace computational modeling
 - Embedded UAV systems and data acquisition
@@ -60,6 +61,17 @@ I build software for modeling, simulating, and controlling physical systems — 
 
 > Focus: CFD, optimization, simulation tooling, engineering systems design  
 > 🏆 Best Capstone Project Award (Aerospace Discipline, 2025)
+
+---
+
+### [Fast BiQuad Filter](https://github.com/Rajwinder-Singh-19/Fast-BiQuad-Filter)
+
+- Real-time VST3 audio plugin built with Modern C++ and iPlug2
+- Sample-by-sample biquad DSP engine supporting low-pass, high-pass, and band-pass filters
+- Thread-safe architecture with separate GUI and real-time audio processing threads
+- Real-time safe audio callback with runtime coefficient updates
+
+> Focus: Real-Time Systems, Digital Signal Processing (DSP), Modern C++, Numerical Algorithms, Software Architecture
 
 ---
 
