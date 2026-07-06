@@ -97,7 +97,7 @@ I build software for modeling, simulating, and controlling physical systems — 
 
 ## Professional Experience
 
-### UAV Propulsion R&D — Testing & Instrumentation Engineer (Intern)
+### UAV Propulsion R&D: Testing & Instrumentation Engineer (Intern)
 - Developed Blade Element Method model for UAV propeller analysis (MATLAB)
 - Built Python pipeline for large-scale propulsion test data processing (50% faster analysis)
 - Implemented embedded C/C++ firmware for propulsion data acquisition systems
@@ -119,7 +119,7 @@ I build software for modeling, simulating, and controlling physical systems — 
 
 - Robotics systems and autonomous systems
 - Physics-based simulation engines
-- Music production and audio programming (MaxMSP, PureData)
+- Music production and audio programming (MaxMSP, PureData, C++< iPlug2)
 - Computational modeling of real-world systems
 
 ###
