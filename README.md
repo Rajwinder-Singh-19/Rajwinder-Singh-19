@@ -64,7 +64,7 @@ I build software for modeling, simulating, and controlling physical systems — 
 
 ---
 
-### [Fast BiQuad Filter](https://github.com/Rajwinder-Singh-19/Fast-BiQuad-Filter)
+### [Fast BiQuad Filter!](https://github.com/Rajwinder-Singh-19/Fast-BiQuad-Filter)
 
 - Real-time VST3 audio plugin built with Modern C++ and iPlug2
 - Sample-by-sample biquad DSP engine supporting low-pass, high-pass, and band-pass filters
