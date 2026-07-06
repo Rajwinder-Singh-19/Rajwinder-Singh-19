@@ -59,6 +59,9 @@ I build software for modeling, simulating, and controlling physical systems — 
 - Developed surrogate-model-based aerodynamic optimization (PyTorch)
 - Fabricated and tested 1:10 scale wind tunnel prototype
 
+<img width="1482" height="779" alt="Pressure Contour" src="https://github.com/user-attachments/assets/0f27fd32-8d16-402f-9500-ef0bd0a2bae0" />
+
+
 > Focus: CFD, optimization, simulation tooling, engineering systems design  
 > 🏆 Best Capstone Project Award (Aerospace Discipline, 2025)
 
@@ -86,6 +89,9 @@ I build software for modeling, simulating, and controlling physical systems — 
 - Adaptive step-size control for stability and performance
 - Designed for scientific computing workloads
 
+<img width="1920" height="959" alt="Osc" src="https://github.com/user-attachments/assets/2e00d210-ef72-413e-a753-2fd7c59ab4ff" />
+
+
 > Focus: numerical methods, stability, reusable solver architecture
 
 ---
@@ -95,6 +101,8 @@ I build software for modeling, simulating, and controlling physical systems — 
 - Template-based architecture for extensible solver design
 - Euler solver validated; RK integration planned
 - Successfully modelled contact mechanics equations, frequently encountered in robotics
+
+<img width="1920" height="959" alt="Damp" src="https://github.com/user-attachments/assets/b4228a12-1618-4450-9a3b-b7caede11525" />
 
 > Focus: C++ systems design, template metaprogramming, numerical computing framework, extensibility
 
